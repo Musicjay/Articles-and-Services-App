@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ASRA</string>
+    <string name="Login">Login</string>
+    <string name="prompt_email">Email Address</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Password must be at least 5 characters long</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="new_user">New User?</string>
+    <string name="Register">Register</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="returning_user">Already have an account?</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_name">Enter Username</string>
+    <string name="error_password_match">Passwords should match</string>
+    <string name="success_return">Welcome back!</string>
+    <string name="success_register">Successfully registered!</string>
+    <string name="email_exists">Email already exists! Please login</string>
+    <string name="error_message_password">Please enter password</string>
+    <string name="text_title">Articles and Services List</string>
+    <string name="text_hello">Search from all the articles and services on the app!</string>
+    <string name="hint_name">Service Name</string>
+    <string name="hint_description">Description</string>
+    <string name="hint_price">Price</string>
+    <string name="create_service">Create Listing</string>
+    <string name="prompt_service_name">Name of Article or Service</string>
+    <string name="prompt_description">Description of listing</string>
+    <string name="prompt_price">Listing price</string>
+    <string name="create_listing">Create Listing</string>
+    <string name="error_message_description">Please enter listing description!</string>
+    <string name="error_message_price">Please enter listing price!</string>
+    <string name="success_create">Item successfully created!</string>
+    <string name="action_search">Search a listing</string>
+</resources>
